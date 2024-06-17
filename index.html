@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Box Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="input-container">
+            <textarea id="inputBox" class="textbox" rows="5" cols="40" placeholder="Enter text here..."></textarea>
+        </div>
+        <div class="output-container">
+            <textarea id="outputBox" class="textbox" rows="5" cols="40" readonly></textarea>
+            <button class="copy-button" onclick="copyText()">Copy</button>
+        </div>
+    </div>
+    <div class="toggle-container">
+        <label class="switch">
+          <input type="checkbox" id="toggleSwitch">
+          <span class="slider"></span>
+        </label>
+        <span class="toggle-label">Enable Click</span>
+      </div>
+      <div class="grid-container"></div>      
+
+    <footer>
+        <div class="footer-content">
+            Made by Luci
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
