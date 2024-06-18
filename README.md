@@ -1,6 +1,6 @@
 # Pokemon Gen 1 Arbitrary Code Execution Tools
 
-This repository contains the website full of tools for arbitrary code execution, mainly consisting of a tile writer to put text on the screen, and a generator for codes to use with TimoVM's nickname writer.
+This repository contains a website full of tools for arbitrary code execution, mainly consisting of a tile writer to put text on the screen, and a generator for codes to use with TimoVM's nickname writer.
 ## Acknowledgements
 
  - [GlitchCity Wiki](https://glitchcity.wiki/)
