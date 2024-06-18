@@ -1,6 +1,6 @@
-# Pokemon Gen1 Hex Generator
+# Pokemon Gen 1 Arbitrary Code Execution Tools
 
-This is a parser to change ASCII text into their respective Gen1 hex codes.
+This repository contains the website full of tools for arbitrary code execution, mainly consisting of a tile writer to put text on the screen, and a generator for codes to use with TimoVM's nickname writer.
 ## Acknowledgements
 
  - [GlitchCity Wiki](https://glitchcity.wiki/)
