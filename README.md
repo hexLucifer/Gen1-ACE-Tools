@@ -17,8 +17,7 @@ Features currently in the website:
 - Pokemon Red, Blue and Yellow support
 - Support for uppercase and lowercase letters, numbers and punctuation
 
-### Planned
-Features planned in the future:
+### Planned:
 - Generation of nickname writer codes for arbitrary code execution
 - Grid to select where to place the text
 - Deletion of sprites to make the text easier to read
